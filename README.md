@@ -2,7 +2,8 @@
 _**Authors:** João Machado de Freitas, Sebastian Berg, Bernhard C. Geiger, Manfred Mücke_
 
 This repository is the official implementation of
-[Compressed Hierarchical Representations for Multi-Task Learning and Task Clustering](https://arxiv.org).
+[Compressed Hierarchical Representations for Multi-Task Learning and Task Clustering](
+https://arxiv.org/abs/2205.15882).
 
 ## Instructions
 

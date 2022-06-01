@@ -1,0 +1,15 @@
+name: torch
+channels:
+    - pytorch
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.8
+    - pytorch
+    - torchvision
+    - cudatoolkit=11.3
+    - pytorch-lightning
+    - pandas
+    - seaborn
+    - jupyter
+    - pip

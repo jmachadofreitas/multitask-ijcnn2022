@@ -27,21 +27,13 @@ jupyter notebook --no-browser --ip 0.0.0.0 --port <PORT>
 
 ## Citing
 ```text
-@InProceedings{freitas2022compressed,
-  title = 	 {{C}ompressed Hierarchical Representations for Multi-Task Learning and Task Clustering},
-  author = 	 {Jo\~ao Machado de Freitas and Sebastian Berg and Bernhard C. Geiger and Manfred M\"ucke},
-  booktitle =    {},
-  pages = 	 {},
-  year = 	 {2022},
-  editor = 	 {},
-  volume = 	 {},
-  series = 	 {},
-  address = 	 {},
-  month = 	 {},
-  publisher = 	 {},
-  pdf = 	 {},
-  url = 	 {},
-  abstract = 	 {}
+@INPROCEEDINGS{defreitas2022compressed,
+  author={de Freitas, João Machado and Berg, Sebastian and Geiger, Bernhard C. and Mücke, Manfred},
+  booktitle={2022 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Compressed Hierarchical Representations for Multi-Task Learning and Task Clustering}, 
+  year={2022},
+  pages={01-08},
+  doi={10.1109/IJCNN55064.2022.9892342}
 }
 ```
 
